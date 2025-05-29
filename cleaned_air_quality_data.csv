@@ -1,0 +1,119 @@
+WHO Country Name,City or Locality,Measurement Year,PM2.5 (?g/m3),PM10 (?g/m3),NO2 (?g/m3),PM25 temporal coverage (%),PM10 temporal coverage (%),NO2 temporal coverage (%)
+Afghanistan,Kabul,2019,119.77,,,18.0,,
+Albania,Vlore,2019,10.32,,,,,
+Algeria,Algiers,2019,21.53,,,44.0,,
+Andorra,Escaldes-Engordany,2019,,24.58,31.01,,,92.1803653
+Argentina,Buenos Aires,2019,,25.5,18.25,,97.2,87.5
+Australia,Adelaide,2019,6.14,20.64,11.57,97.2,91.42857143,91.85714286
+Austria,Am Rechen,2019,,,15.57,,,94.62328767
+Bahamas,Nassau,2020,3.2,3.65,,40.0,40.0,
+Bahrain,Hidd,2019,36.72,119.46,55.82,82.73972603,83.01369863,85.20547945
+Bangladesh,Dhaka,2019,86.48,,,94.0,,
+Belgium,Aarschot,2019,11.71,19.15,15.63,,,97.14611872
+Bhutan,Pasakha,2015,,275.0,,,,
+Bolivia (Plurinational State of),Cochabamba,2014,,59.52,,,,
+Bosnia and Herzegovina,Gorazde,2019,32.54,32.54,6.8,,,91.60958904
+Brazil,Americana,2019,,33.76,,,81.91780822,
+Bulgaria,Blagoevgrad,2019,,29.96,17.81,,,94.32648402
+Cameroon,Bafoussam,2012,67.0,105.0,,,,
+Canada,Aamjiwnaang,2019,7.0,,11.0,100.0,,100.0
+Chile,Andacollo,2019,,44.0,,,99.0,
+China,Aba Zangzu Qiangzu Zizhizhou,2019,18.47,,,97.260274,,
+Colombia,Barbosa,2019,10.49,,,17.0,,
+Costa Rica,San Jose,2019,7.4,,,7.0,,
+Croatia,Desinic Gora,2019,12.18,14.57,6.07,,,81.09589041
+Cuba,La Habana,2015,34.8,,,65.0,,
+Cyprus,Agia Marina,2019,9.89,13.14,2.36,,,100.0
+Czechia,Belotin,2019,17.68,23.44,,,,
+Denmark,Aalborg,2019,9.56,,10.23,,,94.17808219
+Ecuador,Quito,2018,19.84,33.22,24.09,,,
+Egypt,Delta Region,2015,,249.0,,,,
+El Salvador,San Salvador,2018,29.0,,,,,
+Estonia,Kohtla-Jarve,2019,4.01,11.02,4.71,99.12100457,99.12100457,99.12100457
+Ethiopia,Addis Ababa,2019,20.48,,,68.0,,
+Fiji,Suva City,2015,8.1,,,83.33,,
+Finland,Espoo,2019,6.14,17.07,19.62,,,99.41780822
+France,Agde,2019,,,8.24,,,99.39497717
+Georgia,Tbilisi,2017,20.0,39.0,,97.0,97.0,
+Germany,Aachen,2019,,17.14,29.68,,100.0,98.95262557
+Ghana,Accra,2016,55.0,,,,,
+Greece,Ano Liosia,2019,,,21.07,,,85.69634703
+Guatemala,Guatemala City,2019,14.0,,,17.0,,
+Honduras,Tegucigalpa,2016,,40.0,,,,
+Hungary,Ajka,2019,11.45,15.89,12.31,,,99.10958904
+Iceland,Akureyri,2019,,15.81,13.8,,,99.96575342
+India,Adilabad,2019,45.0,74.0,25.0,86.5384615,100.0,100.0
+Indonesia,Jakarta,2019,46.35,,,92.0,,
+Iran (Islamic Republic of),Abadan,2020,28.66,,,,,
+Iraq,Babylon,2020,,52.0,70.32,,,
+Ireland,Carlow,2019,7.6,11.0,,,,
+Israel,Afula,2015,,63.5,,,94.4,
+Italy,Abbadia Cerreto,2019,,,21.71,,,96.62100457
+Jamaica,Kingston,2015,,45.51,,,53.33,
+Japan,Fukuoka City,2018,13.6,,19.78,98.56164384,,99.31506849
+Jordan,Amman,2019,26.83,59.13,27.04,15.0,91.27142857,94.37142857
+Kazakhstan,Astana,2019,21.77,,,95.0,,
+Kenya,Mombasa,2019,10.79,22.75,,50.0,50.0,
+Kuwait,Ahmadi Governorate,2020,41.15,115.05,33.12,91.3275,95.215,93.3625
+Kyrgyzstan,Bishkek,2019,33.15,,,78.0,,
+Lao People's Democratic Republic,Vientiane,2019,25.77,,,44.0,,
+Latvia,Liepaja,2019,13.38,21.28,20.72,,,99.15525114
+Lebanon,Beirut,2016,19.0,55.0,,34.0,34.0,
+Liechtenstein,Vaduz,2010,,17.88,23.59,,96.164,98.265
+Lithuania,Jonava,2019,,14.54,9.65,,,98.65296804
+Luxembourg,Bourglinster,2019,6.89,14.74,8.99,,,97.37442922
+Madagascar,Antananarivo,2020,32.0,106.0,,50.0,50.0,
+Malaysia,Johor,2019,20.97,30.1,13.24,,,
+Maldives,Male,2011,,20.0,,,,
+Malta,H'attard,2019,12.12,,11.64,,,92.32876712
+Mauritius,Beau Bassin/Rose Hill,2019,,36.57,14.95,,75.0,75.0
+Mexico,Abasolo,2018,15.0,,,,,
+Monaco,Monaco,2019,,14.0,32.0,,98.5,95.4
+Mongolia,Ulaanbaatar,2019,60.0,124.0,,,,
+Montenegro,Niksic,2019,,,14.89,,,82.11187215
+Morocco,Casablanca,2020,,51.32,23.3,,,
+Myanmar,Rangoon,2019,18.08,,,47.0,,
+Nepal,Kathmandu,2020,37.03,55.25,,60.08571429,59.47142857,
+Netherlands,Amsterdam,2019,11.15,19.91,29.87,,,98.17732116
+New Zealand,Ashburton District,2017,11.23,18.71,,,50.0,
+Nigeria,Lagos,2010,27.43,,,60.0,,
+North Macedonia,Bitola,2019,,,21.26,,,91.66666667
+Norway,Alesund,2019,,13.2,23.37,,,90.02283105
+Pakistan,Islamabad,2020,32.29,,21.06,,,
+Panama,Panama,2013,14.0,31.1,,,,
+Paraguay,Asuncion,2010,18.4,,,,,
+Peru,Lima,2019,30.14,,,92.0,,
+Philippines,Baguio City,2018,,66.0,,,,
+Poland,Be?chatow,2019,,25.63,,,,
+Portugal,Albufeira,2019,,20.92,17.35,,,99.69178082
+Qatar,Doha,2021,38.0,150.0,30.0,97.0,96.0,99.0
+Republic of Korea,Busan,2020,17.0,30.0,30.08,91.2,90.9,91.1
+Romania,Alba Iulia,2019,,23.76,,,,
+Russian Federation,Moscow,2017,,19.73,,,,
+Saudi Arabia,Dharan,2019,34.12,,,45.0,,
+Senegal,Dakar,2019,,136.26,16.79,,100.0,75.0
+Serbia,Belgrade,2019,,29.22,30.85,,,97.1347032
+Singapore,Singapore,2020,11.0,,20.0,100.0,100.0,100.0
+Slovakia,Banska Bystrica,2019,13.92,21.06,19.09,,,95.71917808
+Slovenia,Celje,2019,,27.39,25.22,,,95.53652968
+South Africa,Buffalo City,2021,12.63,29.04,10.88,75.0,75.0,75.0
+Spain,A Coruna,2019,13.6,26.91,18.34,,,97.78538813
+Sri Lanka,Colombo,2019,23.58,,,87.0,,
+Sweden,Älgarås,2019,,,1.2,,,93.40182648
+Switzerland,Aarau,2020,8.9,12.4,18.6,,,
+Tajikistan,Dushanbe,2019,71.52,,,19.0,,
+Thailand,Bangkok,2019,23.14,43.14,36.83,84.85714286,88.71428571,79.33333333
+Trinidad and Tobago,Point Lisas,2019,11.9,31.5,16.25,73.7,54.3,47.3
+Tunisia,Bizerte,2010,,80.0,,,,
+Turkey,Adana,2019,,42.3,30.68,,,87.804414
+Turkmenistan,Ashgabat,2019,22.08,,,19.0,,
+Uganda,Kampala,2019,60.15,,,90.0,,
+Ukraine,Kyiv,2019,23.36,31.19,,97.3,100.0,
+United Arab Emirates,Abu Dhabi,2020,,111.49,25.35,,,
+United Kingdom,Aberdeen,2019,7.26,13.71,29.17,,,98.38280061
+United Republic of Tanzania,Morogoro,2011,23.32,35.1,,,,
+United States of America,Albuquerque (Nm),2019,,18.3,17.7,,,
+Uruguay,Montevideo,2018,12.0,19.0,,,,
+Uzbekistan,Tashkent,2019,41.96,,,81.0,,
+Venezuela (Bolivarian Republic of),Caracas,2012,,45.0,,,,
+Viet Nam,Ha Noi,2019,52.09,,,59.0,,
